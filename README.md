@@ -24,7 +24,8 @@
 
 ### 📂 Projects
 
-- 🔍 [Power BI Dashboard - TechSolutions Insights](https://github.com/Mart07-hub/PowerBI_Tech_Dashboard)   
+- 🔍 [Power BI Dashboard - TechSolutions Insights](https://github.com/Mart07-hub/PowerBI_Tech_Dashboard)
+-  [Python Scripts generated Dashboard](https://github.com/Mart07-hub/PowerBI_streamflix)
    
 
 ---
