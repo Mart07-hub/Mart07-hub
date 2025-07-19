@@ -28,7 +28,7 @@
 -  [Python Scripts generated Dashboard](https://github.com/Mart07-hub/PowerBI_streamflix)
 -  [WaterQuality_Dashboard](https://github.com/Mart07-hub/PowerBI_waterQuality)
 - [Onyx June Social Media Performance Dashboard](https://github.com/Mart07-hub/Onyx-june-social-media-dashboard)
-- [Onyx July Customer Satisfaction and Loyalty Insight](https://github.com/Mart07-hub/onyx-july-customer-satisfaction-dashboard/blob/main/onyx%20july.pbix)
+- [Onyx July Customer Satisfaction and Loyalty Insight](https://github.com/Mart07-hub/onyx-july-customer-satisfaction-dashboard/blob/main/Onyx%20july%20Customer%20Satisfaction%20and%20Loyalty%20Dashboard.pbix)
    
 
 ---
