@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋,I am Martha Afful </h1>
-<h3 align="center"> Data Analyst | Power BI Enthusiast | Lifelong Learner</h3>
+<h3 align="center"> Data Analyst | SQL Lover | Power BI | Lifelong Learner</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
 - 🎯 Passionate about **Power BI**, **Data Analytics**, and visual storytelling  
-- 📚 Currently learning: **Data Cleaning**, **Python (Pandas)**, **SQL**, and **Power BI Dashboards**  
+- 📚 Continuous learning: **Data Cleaning**, **Python (Pandas)**, **SQL**, and **Power BI Dashboards**  
 - 🤝 I love to collaborate on projects where I can learn, grow, and share ideas  
 - 💃 Fun fact: I love to dance — it’s my favorite form of self-expression!  
 - 🌱 Actively building a portfolio of real-world projects
