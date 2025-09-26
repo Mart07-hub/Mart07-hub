@@ -30,6 +30,7 @@
 - [Onyx June Social Media Performance Dashboard](https://github.com/Mart07-hub/Onyx-june-social-media-dashboard)
 - [Onyx July Customer Satisfaction and Loyalty Insight](https://github.com/Mart07-hub/onyx-july-customer-satisfaction-dashboard/blob/main/Onyx%20july%20Customer%20Satisfaction%20and%20Loyalty%20Dashboard.pbix)
 - [Retail Sales Dashboard](https://github.com/Mart07-hub/retail-sales-dashboard/blob/main/Eleevo%20Task%208.pbix)
+- [Walmart Sales Analysis](https://github.com/Mart07-hub/Walmart-Sales-Analysis)
    
 
 ---
