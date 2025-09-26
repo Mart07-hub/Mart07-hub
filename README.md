@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I am Martha Afful </h1>
-<h3 align="center"> Data Analyst | SQL Lover | Power BI | Lifelong Learner</h3>
+<h3 align="center"> Data Analyst | SQL | Power BI | Lifelong Learner</h3>
 
 ---
 
