@@ -8,7 +8,7 @@
 - 🎯 Passionate about **Power BI**, **Data Analytics**, and visual storytelling  
 - 📚 Continuous learning: **Data Cleaning**, **Python (Pandas)**, **SQL**, and **Power BI Dashboards**  
 - 🤝 I love to collaborate on projects where I can learn, grow, and share ideas  
-- 💃 Fun fact: I love to dance — it’s my favorite form of self-expression!  
+- 💃 Fun fact: I love to sing— it’s my favorite form of self-expression!  
 - 🌱 Actively building a portfolio of real-world projects
 
 ---
