@@ -32,6 +32,7 @@
 - [Retail Sales Dashboard](https://github.com/Mart07-hub/retail-sales-dashboard/blob/main/Eleevo%20Task%208.pbix)
 - [Walmart Sales Analysis](https://github.com/Mart07-hub/Walmart-Sales-Analysis)
 - [Titanic Survival Analysis](https://github.com/Mart07-hub/Titanic-Survival-Analysis/tree/main)
+- [RFM Segmentation Customer Analysis](https://github.com/Mart07-hub/Customer_Segmemtation_Using_RFM_Analysis)
    
 
 ---
