@@ -33,6 +33,7 @@
 - [Walmart Sales Analysis](https://github.com/Mart07-hub/Walmart-Sales-Analysis)
 - [Titanic Survival Analysis](https://github.com/Mart07-hub/Titanic-Survival-Analysis/tree/main)
 - [RFM Segmentation Customer Analysis](https://github.com/Mart07-hub/Customer_Segmemtation_Using_RFM_Analysis)
+- [Telco Customer Churn Prediction](https://github.com/Mart07-hub/Telco-Customer-Churn-Prediction)
    
 
 ---
