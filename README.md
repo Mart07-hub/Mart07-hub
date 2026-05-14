@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋,I am Martha Afful </h1>
-<h3 align="center"> Data Analyst | SQL | Power BI | Lifelong Learner</h3>
+<h3 align="center"> Data Analysis | Data Science | Machine Learning and AI | Lifelong Learner</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎯 Passionate about **Power BI**, **Data Analytics**, and visual storytelling  
-- 📚 Continuous learning: **Data Cleaning**, **Python (Pandas)**, **SQL**, and **Power BI Dashboards**  
+- 🎯 Passionate about **Data Science**, **Data Analytics**, and model prediction  
+- 📚 Continuous learning: **Data Cleaning**, **Python (Pandas)**  
 - 🤝 I love to collaborate on projects where I can learn, grow, and share ideas  
 - 💃 Fun fact: I love to sing— it’s my favorite form of self-expression!  
 - 🌱 Actively building a portfolio of real-world projects
@@ -16,8 +16,8 @@
 ### 🛠 Skills
 
 - **Data Visualization:** Power BI, Excel (Pivot Tables, Charts)  
-- **Programming:** Python (Pandas, NumPy), SQL  
-- **Tools & Tech:** GitHub, Canva, Google Slides, Microsoft Office Suite  
+- **Programming:** Python (Pandas, NumPy, Seaborn, matplotlib, Scikit - Learn), SQL  
+- **Tools & Tech:** GitHub, Canva, Google Slides, Microsoft Office Suite
 - **Soft Skills:** Communication, teamwork, adaptability, presentation
 
 ---
